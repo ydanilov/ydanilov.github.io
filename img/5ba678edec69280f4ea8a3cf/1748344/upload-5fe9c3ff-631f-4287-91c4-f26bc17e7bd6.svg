@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1345px" height="164px" viewBox="0 0 1345 164" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>Artboard</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#FFFFFF" x="0" y="0" width="1345" height="164"></rect>
+        <g id="Group-3" transform="translate(624.000000, 86.000000)">
+            <g id="UX-/-Reverse" transform="translate(159.000000, 32.000000) scale(-1, 1) translate(-159.000000, -32.000000) ">
+                <path d="M310,13 L318,9 L310,5 C310,6.19390733 310,7.52724067 310,9 C310,10.4727593 310,11.8060927 310,13 Z" id="end" fill="#AEAEAE" fill-rule="nonzero" transform="translate(314.000000, 9.000000) rotate(-90.000000) translate(-314.000000, -9.000000) "></path>
+                <path d="M4,0 L4,35 C4,49.3594035 15.6405965,61 30,61 L288,61 C302.359403,61 314,49.3594035 314,35 L314,9 L314,9" id="path" stroke="#AEAEAE" stroke-width="3"></path>
+            </g>
+            <g id="Group-2" transform="translate(111.000000, 40.000000)">
+                <g id="Group">
+                    <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="103" height="35"></rect>
+                    <text id="ITERATIONS" font-family="Helvetica-Bold, Helvetica" font-size="13" font-weight="bold" fill="#2F2F2F">
+                        <tspan x="12.6174316" y="24">ITERATIONS</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+        <g id="UX-/-Line" transform="translate(178.000000, 45.000000)" fill="#AEAEAE" fill-rule="nonzero">
+            <polygon id="end" transform="translate(14.000000, 3.000000) rotate(-270.000000) translate(-14.000000, -3.000000) " points="14 -1 18 7 10 7"></polygon>
+            <polygon id="path" points="3 4.5 3 1.5 12 1.5 12 4.5"></polygon>
+        </g>
+        <g id="UX-/-Line" transform="translate(364.000000, 45.000000)" fill="#AEAEAE" fill-rule="nonzero">
+            <polygon id="end" transform="translate(14.000000, 3.000000) rotate(-270.000000) translate(-14.000000, -3.000000) " points="14 -1 18 7 10 7"></polygon>
+            <polygon id="path" points="3 4.5 3 1.5 12 1.5 12 4.5"></polygon>
+        </g>
+        <g id="UX-/-Line" transform="translate(524.000000, 45.000000)" fill="#AEAEAE" fill-rule="nonzero">
+            <polygon id="end" transform="translate(14.000000, 3.000000) rotate(-270.000000) translate(-14.000000, -3.000000) " points="14 -1 18 7 10 7"></polygon>
+            <polygon id="path" points="3 4.5 3 1.5 12 1.5 12 4.5"></polygon>
+        </g>
+        <g id="UX-/-Line" transform="translate(685.000000, 45.000000)" fill="#AEAEAE" fill-rule="nonzero">
+            <polygon id="end" transform="translate(14.000000, 3.000000) rotate(-270.000000) translate(-14.000000, -3.000000) " points="14 -1 18 7 10 7"></polygon>
+            <polygon id="path" points="3 4.5 3 1.5 12 1.5 12 4.5"></polygon>
+        </g>
+        <g id="UX-/-Line" transform="translate(845.000000, 45.000000)" fill="#AEAEAE" fill-rule="nonzero">
+            <polygon id="end" transform="translate(14.000000, 3.000000) rotate(-270.000000) translate(-14.000000, -3.000000) " points="14 -1 18 7 10 7"></polygon>
+            <polygon id="path" points="3 4.5 3 1.5 12 1.5 12 4.5"></polygon>
+        </g>
+        <g id="UX-/-Line" transform="translate(1008.000000, 45.000000)" fill="#AEAEAE" fill-rule="nonzero">
+            <polygon id="end" transform="translate(14.000000, 3.000000) rotate(-270.000000) translate(-14.000000, -3.000000) " points="14 -1 18 7 10 7"></polygon>
+            <polygon id="path" points="3 4.5 3 1.5 12 1.5 12 4.5"></polygon>
+        </g>
+        <g id="UX-/-Line" transform="translate(1168.000000, 45.000000)" fill="#AEAEAE" fill-rule="nonzero">
+            <polygon id="end" transform="translate(14.000000, 3.000000) rotate(-270.000000) translate(-14.000000, -3.000000) " points="14 -1 18 7 10 7"></polygon>
+            <polygon id="path" points="3 4.5 3 1.5 12 1.5 12 4.5"></polygon>
+        </g>
+        <rect id="Rectangle" fill="#3E86B4" x="11" y="10" width="171" height="76" rx="10"></rect>
+        <rect id="Rectangle" fill="#3E86B4" x="196" y="10" width="171" height="76" rx="10"></rect>
+        <rect id="Rectangle" fill="#2FA08A" x="383" y="10" width="146" height="76" rx="10"></rect>
+        <rect id="Rectangle" fill="#2FA08A" x="543" y="10" width="146" height="76" rx="10"></rect>
+        <rect id="Rectangle" fill="#2FA08A" x="704" y="10" width="146" height="76" rx="10"></rect>
+        <rect id="Rectangle" fill="#2FA08A" x="865" y="10" width="146" height="76" rx="10"></rect>
+        <rect id="Rectangle" fill="#D8843B" x="1027" y="10" width="146" height="76" rx="10"></rect>
+        <rect id="Rectangle" fill="#D8843B" x="1187" y="10" width="146" height="76" rx="10"></rect>
+        <text id="Determine-Produсt-Re" font-family="Helvetica-Bold, Helvetica" font-size="13" font-weight="bold" fill="#FFFFFF">
+            <tspan x="65.2109375" y="35">Determine </tspan>
+            <tspan x="27.2932129" y="51">Produсt Requirements</tspan>
+            <tspan x="41.730957" y="67">&amp; Business Goals</tspan>
+        </text>
+        <text id="User-Research-&amp;-Comp" font-family="Helvetica-Bold, Helvetica" font-size="13" font-weight="bold" fill="#FFFFFF">
+            <tspan x="281.5" y="29"></tspan>
+            <tspan x="235.971436" y="45">User Research</tspan>
+            <tspan x="209.495361" y="61">&amp; Competitive Analysis</tspan>
+        </text>
+        <text id="Wireframes-&amp;-User-Fl" font-family="Helvetica-Bold, Helvetica" font-size="13" font-weight="bold" fill="#FFFFFF">
+            <tspan x="580.653076" y="45">Wireframes</tspan>
+            <tspan x="578.437744" y="61">&amp; User Flow</tspan>
+        </text>
+        <text id="Rapid-Prototyping" font-family="Helvetica-Bold, Helvetica" font-size="13" font-weight="bold" fill="#FFFFFF">
+            <tspan x="721.170898" y="53">Rapid Prototyping</tspan>
+        </text>
+        <text id="Rapid-Prototyping" font-family="Helvetica-Bold, Helvetica" font-size="13" font-weight="bold" fill="#FFFFFF">
+            <tspan x="721.170898" y="53">Rapid Prototyping</tspan>
+        </text>
+        <text id="User-Testing-&amp;-Recie" font-family="Helvetica-Bold, Helvetica" font-size="13" font-weight="bold" fill="#FFFFFF">
+            <tspan x="899.10791" y="45">User Testing </tspan>
+            <tspan x="875.132812" y="61">&amp; Recieve Feedback</tspan>
+        </text>
+        <text id="Visual-Design-&amp;-Micr" font-family="Helvetica-Bold, Helvetica" font-size="13" font-weight="bold" fill="#FFFFFF">
+            <tspan x="1057.48975" y="45">Visual Design</tspan>
+            <tspan x="1041.85229" y="61">&amp; Microanimations</tspan>
+        </text>
+        <text id="Integration-Support" font-family="Helvetica-Bold, Helvetica" font-size="13" font-weight="bold" fill="#FFFFFF">
+            <tspan x="1200.20044" y="45">Integration Support </tspan>
+            <tspan x="1207.05591" y="61">&amp; Quality Control</tspan>
+        </text>
+        <text id="Create-Personas" font-family="Helvetica-Bold, Helvetica" font-size="13" font-weight="bold" fill="#FFFFFF">
+            <tspan x="405.195068" y="53">Create Personas</tspan>
+        </text>
+    </g>
+</svg>
