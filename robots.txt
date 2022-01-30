@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: http://kyiverse.space/sitemap.xml
+Sitemap: https://yuradanilov.com/sitemap.xml
